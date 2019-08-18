@@ -69,7 +69,7 @@ If directly openining the Unity project is not successful, then you can also cre
 * Make sure that you can see a small window that displays the webcam texture on the top left corner of the Hololens.
 * Print out on an US-Letter paper the following pattern, and attach the AprilTags onto the corresponding black boxes.
 
-    ![alt text](ScreenShots/alignTest.PNG)
+    ![alt text](ScreenShots/alignTest.png)
 
 * Focus your gaze at the AprilTags, and make sure you see 3D axes appear on each AprilTag. Then hit the "Align" button, to see a pattern emerge on the AprilTags. You should see the following screenshot:
 
