@@ -15,6 +15,7 @@
 6. [HoloToolkit 2017.4.3.0](https://github.com/microsoft/MixedRealityToolkit-Unity/releases/tag/2017.4.3.0-Refresh) - This should be contained in the Unity package. If not, just download it from github.
 7. [HololensCameraStream](https://github.com/VulcanTechnologies/HoloLensCameraStream) - This should be contained in the Unity package. If not, just download it from github.
 8. [OpenCV for Unity](https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088?aid=1011l4ehR&utm_source=aff) 2.3.3+
+9. [HololensAprilTagPackage](https://drive.google.com/open?id=1vFHvzSv6vaBAtNBXicz703HRWx015w2h)
 
 ### Installation
 
@@ -47,6 +48,7 @@ If directly openining the Unity project is not successful, then you can also cre
     ![alt text](ScreenShots/0.PNG)
 2. Download and import (Assets > Import Package > Custom Package) the HoloToolkit-Unity-2017.4.3.0.unitypackage.
 3. Setup the Holotoolkit (Mixed Reality ToolKit > Configure > Apply Mixed Reality Project Setting > Apply).
+3. Download and import HololensAprilTagPackage.
 4. Import OpenCVForUnity (Asset Store > Search "OpenCVForUnity" > Import).
     * Setup the OpenCVForUnity (Tools > OpenCVForUnity > Set Plugin Import Settings)
     * Move the "OpenCVForUnity/StreamingAssets/haarcascade_frontalface_alt.xml" and "OpenCVForUnity/StreamingAssets/lbpcascade_frontalface.xml" to the "Assets/StreamingAssets/" folder.
