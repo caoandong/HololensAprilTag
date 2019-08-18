@@ -24,19 +24,19 @@ After a proper installation, the project settings should be set as follows:
 
 * Build Settings (File > Build Settings) and Other Settings (File > Build Settings > Player Settings ... > Other Settings)
 
-    ![alt text](./ScreenShots/1.png)
+    ![alt text](ScreenShots/1.png)
 
 * Publishing Settings (File > Build Settings > Player Settings ... > Publishing Settings)
 
-    ![alt text](./ScreenShots/3.png)
+    ![alt text](ScreenShots/3.png)
 
 * XR Settings (File > Build Settings > Player Settings ... > XR Settings)
 
-    ![alt text](./ScreenShots/4.png)
+    ![alt text](ScreenShots/4.png)
 
 * File Structure
 
-    ![alt text](./ScreenShots/2.png)
+    ![alt text](ScreenShots/2.png)
 
 #### Install From Unity Package
 
@@ -44,7 +44,7 @@ If directly openining the Unity project is not successful, then you can also cre
 
 1. Open Unity Hub and create a new project for Unity 2018.3.14f1.
 
-    ![alt text](./ScreenShots/0.png)
+    ![alt text](ScreenShots/0.png)
 2. Download and import (Assets > Import Package > Custom Package) the HoloToolkit-Unity-2017.4.3.0.unitypackage.
 3. Setup the Holotoolkit (Mixed Reality ToolKit > Configure > Apply Mixed Reality Project Setting > Apply).
 4. Import OpenCVForUnity (Asset Store > Search "OpenCVForUnity" > Import).
@@ -67,21 +67,21 @@ If directly openining the Unity project is not successful, then you can also cre
 * Make sure that you can see a small window that displays the webcam texture on the top left corner of the Hololens.
 * Print out on an US-Letter paper the following pattern, and attach the AprilTags onto the corresponding black boxes.
 
-    ![alt text](./ScreenShots/alignTest.png)
+    ![alt text](ScreenShots/alignTest.png)
 
 * Focus your gaze at the AprilTags, and make sure you see 3D axes appear on each AprilTag. Then hit the "Align" button, to see a pattern emerge on the AprilTags. You should see the following screenshot:
 
-    ![alt text](./ScreenShots/6.jpg)
+    ![alt text](ScreenShots/6.jpg)
 
 * If the alignment is incorrect, you can correct it by hitting the "Next" button to find another alignment.
 
     Before:
 
-    ![alt text](./ScreenShots/before.jpg)
+    ![alt text](ScreenShots/before.jpg)
 
     After:
 
-    ![alt text](./ScreenShots/after.jpg)
+    ![alt text](ScreenShots/after.jpg)
 
 
 # Core Algorithms
